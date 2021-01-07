@@ -10,7 +10,7 @@ export const products: IProduct[] = [
   {
     id: '78e7d58f-b6ec-4701-b7fd-86968c53df89',
     name:
-      'Product - NYHET 🔄 PopSockets - Chroma Splash gloss POPGRIP',
+      'PopSockets - Chroma Splash gloss POPGRIP',
     priceUSD: 14.19,
     photos: [
       'https://cdn.shopify.com/s/files/1/1097/9190/products/Chroma-Splash-Gloss_01_Top-View_RGB-600x600-1dd2e0d.png?v=1580077484',
@@ -19,7 +19,7 @@ export const products: IProduct[] = [
   },
   {
     id: '6e65cba9-8de6-4228-82f9-b065436dcc2b',
-    name: 'Product - BESTSELGER! PopSockets POPWALLET+ Shadow Blue',
+    name: 'BESTSELLER! PopSockets POPWALLET+ Shadow Blue',
     priceUSD: 33.24,
     photos: [
       'https://cdn.shopify.com/s/files/1/1097/9190/products/Shadow-Blue_02_Perspective_RGB-350x601-9d0f53a.png?v=1569786631',
@@ -30,7 +30,7 @@ export const products: IProduct[] = [
   {
     id: '1a40fa52-d2c5-4c31-80be-82d364eda9bc',
     name:
-      'Product - NYHET 🔄 PopSockets - Crack a Cold One POPGRIP',
+      'PopSockets - Crack a Cold One POPGRIP',
     priceUSD: 19.20,
     photos: [
       'https://cdn.shopify.com/s/files/1/1097/9190/products/Crack-A-Cold-One_01_Top-View.png?v=1555509081',
